@@ -1,0 +1,5 @@
+# Archivo comprimido que duplica imagenes/ (76.7 MB); se mantiene fuera del repo
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
